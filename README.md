@@ -4,8 +4,6 @@
 </h1>
 
 <p align="center">
-  <strong>Seorang Frontend Developer dari Indonesia 🇮🇩</strong>
-  <br />
   Saya bersemangat dalam membangun antarmuka pengguna yang intuitif, responsif, dan menarik secara visual.
   <br />
   Saat ini saya fokus mendalami ekosistem JavaScript dan menciptakan pengalaman web yang modern.
